@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="105.892" height="31.129" viewBox="0 0 105.892 31.129">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="1" r="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff7854"/>
+      <stop offset="1" stop-color="#fd267d"/>
+    </radialGradient>
+  </defs>
+  <g id="Grupo_1" data-name="Grupo 1" transform="translate(-572.108 -463.904)">
+    <path id="tinder-2" d="M8.125,12.577a.131.131,0,0,1-.108-.031,9.851,9.851,0,0,1-1.377-4.7.249.249,0,0,0-.371-.186C3.018,9.474,0,13.791,0,17.954,0,25.128,4.976,31.14,13.541,31.14A13.2,13.2,0,0,0,27.083,17.962c0-9.139-6.523-15.19-12.334-17.929a.217.217,0,0,0-.31.217c.758,4.929-.279,10.276-6.322,12.342Z" transform="translate(572.108 463.893)" fill="url(#radial-gradient)"/>
+    <text id="Linder" transform="translate(606 488)" fill="#373737" font-size="24" font-family="FlamanteRomaMedium, Flamante Roma"><tspan x="0" y="0">Lin</tspan><tspan y="0" fill="#fe4b6a">der</tspan></text>
+  </g>
+</svg>
